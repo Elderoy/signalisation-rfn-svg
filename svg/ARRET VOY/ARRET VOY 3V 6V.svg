@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <rect x="0" y="0" width="64" height="64" style="fill-rule:nonzero;"/>
+    <rect x="2.968" y="2.968" width="58.065" height="58.065" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:3.94px;"/>
+    <g transform="matrix(1,0,0,1,3.48965,14.1162)">
+        <g transform="matrix(20,0,0,20,24.7916,14.8408)">
+        </g>
+        <text x="10.202px" y="14.841px" style="font-family:'PoliceSNCF', sans-serif;font-weight:500;font-size:20px;fill:white;">3</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-18.522,22)">
+        <g transform="matrix(20,0,0,20,46.8039,34.1556)">
+        </g>
+        <text x="32.214px" y="34.156px" style="font-family:'PoliceSNCF', sans-serif;font-weight:500;font-size:20px;fill:white;">6</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-7.15961,28.2468)">
+        <g transform="matrix(36,0,0,36,56.8379,13.6496)">
+        </g>
+        <text x="42.107px" y="13.65px" style="font-family:'PoliceSNCF', sans-serif;font-weight:500;font-size:36px;fill:white;">v</text>
+    </g>
+</svg>
