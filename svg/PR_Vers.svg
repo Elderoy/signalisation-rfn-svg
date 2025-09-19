@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1,0,0,1,42.268,5.158)">
+        <rect x="-42.268" y="-5.158" width="64" height="64" style="fill:white;fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,42.268,5.158)">
+        <rect x="-39.281" y="-2.171" width="58.026" height="58.026" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:3.97px;"/>
+    </g>
+    <g transform="matrix(2.51561,0,0,2.51561,8.60777,40.0944)">
+        <g transform="matrix(12,0,0,12,18.1758,0)">
+        </g>
+        <text x="0px" y="0px" style="font-family:'PoliceSNCF', sans-serif;font-weight:500;font-size:12px;">PR</text>
+    </g>
+    <g transform="matrix(1.54242,0,0,1.54242,7.43471,54.3307)">
+        <text x="0px" y="0px" style="font-family:'PoliceSNCF', sans-serif;font-weight:500;font-size:12px;">vers...</text>
+    </g>
+</svg>

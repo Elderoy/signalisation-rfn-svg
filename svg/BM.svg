@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1,0,0,1,-107.732,-4.842)">
+        <rect x="107.732" y="4.842" width="64" height="64" style="fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-107.732,-4.842)">
+        <rect x="110.719" y="7.829" width="58.026" height="58.026" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:3.97px;"/>
+    </g>
+    <g transform="matrix(2.51561,0,0,2.51561,-55.1765,-14.4475)">
+        <g transform="matrix(12,0,0,12,45.1542,24.4637)">
+        </g>
+        <text x="24.154px" y="24.464px" style="font-family:'PoliceSNCF', sans-serif;font-weight:500;font-size:12px;fill:white;">BM</text>
+    </g>
+</svg>
